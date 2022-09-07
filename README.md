@@ -19,12 +19,11 @@ your local machine for development and testing purposes.
 2. cd to the directory you want to clone it
 3. type git clone  
 
-  https://ndungu1mac.github.io/Phase-1-project/
+  git@github.com:ndungu1mac/LosAngelesLakers.git
 
 4. open it in the text editor of your choice
 
-## Running the tests
-below is a live demo of the project:
+
 
 ## Authours
 George Ndungu
@@ -32,8 +31,8 @@ George Ndungu
 
 
 ## Contact
-1. Email- george.ndungu@student.moringaschool.com
-2. project link-
+1. Email- macgeorgendungu@gmail.com
+2. project link- https://ndungu1mac.github.io/LosAngelesLakers/
 ## Aknowledgement
 1. Git hub 
 2. Google fonts
